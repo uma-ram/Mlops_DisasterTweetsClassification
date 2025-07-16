@@ -1,0 +1,2 @@
+# mlopsproject_nlpwithdisastertweets
+Mlops_2025_finalproject_nlpwithdisastertweets prediction
