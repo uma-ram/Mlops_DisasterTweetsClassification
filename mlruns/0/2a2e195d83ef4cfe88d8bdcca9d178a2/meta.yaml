@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/2a2e195d83ef4cfe88d8bdcca9d178a2/artifacts
+end_time: 1753048475861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a2e195d83ef4cfe88d8bdcca9d178a2
+run_name: rumbling-asp-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475837
+status: 3
+tags: []
+user_id: codespace

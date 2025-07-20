@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/4ea347395f854304bb1447995039bd9e/artifacts
+end_time: 1753048475834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ea347395f854304bb1447995039bd9e
+run_name: thoughtful-whale-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475813
+status: 3
+tags: []
+user_id: codespace

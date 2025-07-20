@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/2c01ad41b37545d0a3d87a781aa8341e/artifacts
+end_time: 1753048475911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c01ad41b37545d0a3d87a781aa8341e
+run_name: kindly-duck-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475889
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/a2c5b74e9e5041c49f0c334536bc8dec/artifacts
+end_time: 1753048476047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c5b74e9e5041c49f0c334536bc8dec
+run_name: bedecked-owl-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048476022
+status: 3
+tags: []
+user_id: codespace

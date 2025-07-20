@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/924ba52b522c452e8e7b6abb4cde3ff5/artifacts
+end_time: 1753048476020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 924ba52b522c452e8e7b6abb4cde3ff5
+run_name: unleashed-bat-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475993
+status: 3
+tags: []
+user_id: codespace

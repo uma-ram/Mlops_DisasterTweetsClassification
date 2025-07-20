@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/4322f85bb72c47aeab98d0b83fb4747c/artifacts
+end_time: 1753048476103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4322f85bb72c47aeab98d0b83fb4747c
+run_name: fun-crane-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048476075
+status: 3
+tags: []
+user_id: codespace

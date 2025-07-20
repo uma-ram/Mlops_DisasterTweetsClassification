@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/f16205e469f24c0ab0bae3c55c52afdc/artifacts
+end_time: 1753048971678
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: f16205e469f24c0ab0bae3c55c52afdc
+run_name: upset-loon-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971651
+status: 3
+tags: []
+user_id: codespace

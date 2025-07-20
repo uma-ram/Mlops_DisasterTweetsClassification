@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/3c3727ff52404fadbd2e61c6f6de045b/artifacts
+end_time: 1753048475630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c3727ff52404fadbd2e61c6f6de045b
+run_name: sassy-fly-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475600
+status: 3
+tags: []
+user_id: codespace

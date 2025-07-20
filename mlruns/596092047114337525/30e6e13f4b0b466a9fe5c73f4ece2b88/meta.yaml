@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/30e6e13f4b0b466a9fe5c73f4ece2b88/artifacts
+end_time: 1753048971595
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: 30e6e13f4b0b466a9fe5c73f4ece2b88
+run_name: bright-bass-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971560
+status: 3
+tags: []
+user_id: codespace

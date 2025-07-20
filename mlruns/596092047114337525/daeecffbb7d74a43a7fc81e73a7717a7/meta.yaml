@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/daeecffbb7d74a43a7fc81e73a7717a7/artifacts
+end_time: 1753048971524
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: daeecffbb7d74a43a7fc81e73a7717a7
+run_name: skillful-conch-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971494
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/1f1125405015432eba5d5994d1db5387/artifacts
+end_time: 1753048971648
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: 1f1125405015432eba5d5994d1db5387
+run_name: abrasive-cub-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971621
+status: 3
+tags: []
+user_id: codespace

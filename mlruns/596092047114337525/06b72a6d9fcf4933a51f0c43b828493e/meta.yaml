@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/06b72a6d9fcf4933a51f0c43b828493e/artifacts
+end_time: 1753048971759
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: 06b72a6d9fcf4933a51f0c43b828493e
+run_name: secretive-gnat-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971739
+status: 3
+tags: []
+user_id: codespace

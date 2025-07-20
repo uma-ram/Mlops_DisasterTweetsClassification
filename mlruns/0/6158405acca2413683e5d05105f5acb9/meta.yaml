@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/6158405acca2413683e5d05105f5acb9/artifacts
+end_time: 1753048475713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6158405acca2413683e5d05105f5acb9
+run_name: masked-flea-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475691
+status: 3
+tags: []
+user_id: codespace

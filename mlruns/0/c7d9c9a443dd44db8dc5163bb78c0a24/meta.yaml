@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/c7d9c9a443dd44db8dc5163bb78c0a24/artifacts
+end_time: 1753048475760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7d9c9a443dd44db8dc5163bb78c0a24
+run_name: invincible-croc-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475740
+status: 3
+tags: []
+user_id: codespace

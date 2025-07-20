@@ -8,7 +8,8 @@ notebook
 # jupyterlab
 mlflow
 prefect
-
+wordcloud
+hyperopt
 
 # Linting/Formatting
 black

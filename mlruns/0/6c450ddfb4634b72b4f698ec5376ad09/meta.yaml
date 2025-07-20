@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/6c450ddfb4634b72b4f698ec5376ad09/artifacts
+end_time: 1753048475785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c450ddfb4634b72b4f698ec5376ad09
+run_name: delicate-fawn-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475763
+status: 3
+tags: []
+user_id: codespace

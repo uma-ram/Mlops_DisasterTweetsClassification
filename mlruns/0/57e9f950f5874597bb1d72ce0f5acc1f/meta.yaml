@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/57e9f950f5874597bb1d72ce0f5acc1f/artifacts
+end_time: 1753048475990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e9f950f5874597bb1d72ce0f5acc1f
+run_name: auspicious-goose-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475965
+status: 3
+tags: []
+user_id: codespace

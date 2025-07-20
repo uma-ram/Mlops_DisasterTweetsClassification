@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/5fcfa5c494c24fdbbafac9c2d5bac9d9/artifacts
+end_time: 1753048475810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fcfa5c494c24fdbbafac9c2d5bac9d9
+run_name: bustling-mare-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475787
+status: 3
+tags: []
+user_id: codespace

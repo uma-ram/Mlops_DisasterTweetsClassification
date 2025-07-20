@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/a1f6128cce07446e951235ab3115bba9/artifacts
+end_time: 1753048971822
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: a1f6128cce07446e951235ab3115bba9
+run_name: trusting-mink-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971763
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525
+creation_time: 1753048971104
+experiment_id: '596092047114337525'
+last_update_time: 1753048971104
+lifecycle_stage: active
+name: Hyperopt_Tuning_Trials

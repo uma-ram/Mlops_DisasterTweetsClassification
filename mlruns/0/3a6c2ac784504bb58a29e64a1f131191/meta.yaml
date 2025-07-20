@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/3a6c2ac784504bb58a29e64a1f131191/artifacts
+end_time: 1753048476072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a6c2ac784504bb58a29e64a1f131191
+run_name: thoughtful-sow-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048476049
+status: 3
+tags: []
+user_id: codespace

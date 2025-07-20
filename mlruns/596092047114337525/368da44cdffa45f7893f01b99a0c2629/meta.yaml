@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/368da44cdffa45f7893f01b99a0c2629/artifacts
+end_time: 1753048971736
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: 368da44cdffa45f7893f01b99a0c2629
+run_name: respected-stoat-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971706
+status: 3
+tags: []
+user_id: codespace

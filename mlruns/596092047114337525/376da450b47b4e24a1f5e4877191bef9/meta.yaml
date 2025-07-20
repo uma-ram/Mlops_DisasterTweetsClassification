@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/596092047114337525/376da450b47b4e24a1f5e4877191bef9/artifacts
+end_time: 1753048971555
+entry_point_name: ''
+experiment_id: '596092047114337525'
+lifecycle_stage: active
+run_id: 376da450b47b4e24a1f5e4877191bef9
+run_name: amusing-snipe-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048971528
+status: 3
+tags: []
+user_id: codespace

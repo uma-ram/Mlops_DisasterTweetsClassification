@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/bb02aacaf0f14c96915f5ddce5fcac17/artifacts
+end_time: 1753048475659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb02aacaf0f14c96915f5ddce5fcac17
+run_name: indecisive-skunk-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475632
+status: 3
+tags: []
+user_id: codespace

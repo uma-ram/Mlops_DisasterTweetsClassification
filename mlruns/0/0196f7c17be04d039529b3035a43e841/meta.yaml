@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/0196f7c17be04d039529b3035a43e841/artifacts
+end_time: 1753048476134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0196f7c17be04d039529b3035a43e841
+run_name: Hyperopt-Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475588
+status: 3
+tags: []
+user_id: codespace

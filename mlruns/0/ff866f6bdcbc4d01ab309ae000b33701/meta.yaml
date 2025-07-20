@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/ff866f6bdcbc4d01ab309ae000b33701/artifacts
+end_time: 1753048475737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff866f6bdcbc4d01ab309ae000b33701
+run_name: spiffy-pug-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048475716
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/0/481b78ab24e84c69ba0f7a38ce49ac5f/artifacts
+end_time: 1753048476131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 481b78ab24e84c69ba0f7a38ce49ac5f
+run_name: gifted-quail-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753048476106
+status: 3
+tags: []
+user_id: codespace
