@@ -1,0 +1,16 @@
+# ML/NLP
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+notebook
+# jupyterlab
+mlflow
+prefect
+
+
+# Linting/Formatting
+black
+flake8
+isort
