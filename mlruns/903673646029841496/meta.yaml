@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/903673646029841496
+creation_time: 1753047960487
+experiment_id: '903673646029841496'
+last_update_time: 1753047960487
+lifecycle_stage: active
+name: disaster_tweets

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/903673646029841496/d01d706128fe429fbce083d2027c3749/artifacts
+end_time: 1753047963238
+entry_point_name: ''
+experiment_id: '903673646029841496'
+lifecycle_stage: active
+run_id: d01d706128fe429fbce083d2027c3749
+run_name: able-crow-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753047960888
+status: 3
+tags: []
+user_id: codespace
