@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/695230429478621929/models/m-78f9c586593f4b48bf9ceadc58c13575/artifacts
+creation_timestamp: 1753049791425
+experiment_id: '695230429478621929'
+last_updated_timestamp: 1753049792939
+model_id: m-78f9c586593f4b48bf9ceadc58c13575
+model_type: null
+name: model
+source_run_id: a746641ea89342c68ae9e3d6f10136a2
+status: 2
+status_message: null

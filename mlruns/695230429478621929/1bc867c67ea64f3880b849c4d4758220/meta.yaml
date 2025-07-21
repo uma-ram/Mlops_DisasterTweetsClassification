@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/695230429478621929/1bc867c67ea64f3880b849c4d4758220/artifacts
+end_time: 1753049789646
+entry_point_name: ''
+experiment_id: '695230429478621929'
+lifecycle_stage: active
+run_id: 1bc867c67ea64f3880b849c4d4758220
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753049784801
+status: 3
+tags: []
+user_id: codespace

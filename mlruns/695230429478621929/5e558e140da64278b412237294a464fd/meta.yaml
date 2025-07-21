@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/695230429478621929/5e558e140da64278b412237294a464fd/artifacts
+end_time: 1753049783202
+entry_point_name: ''
+experiment_id: '695230429478621929'
+lifecycle_stage: active
+run_id: 5e558e140da64278b412237294a464fd
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753049780627
+status: 3
+tags: []
+user_id: codespace

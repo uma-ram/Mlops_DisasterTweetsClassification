@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/695230429478621929/a746641ea89342c68ae9e3d6f10136a2/artifacts
+end_time: 1753049792940
+entry_point_name: ''
+experiment_id: '695230429478621929'
+lifecycle_stage: active
+run_id: a746641ea89342c68ae9e3d6f10136a2
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753049789648
+status: 3
+tags: []
+user_id: codespace

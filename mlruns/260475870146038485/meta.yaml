@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/260475870146038485
+creation_time: 1753050854119
+experiment_id: '260475870146038485'
+last_update_time: 1753050854119
+lifecycle_stage: active
+name: bert_disaster_classification

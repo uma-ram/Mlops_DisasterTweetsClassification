@@ -67,3 +67,64 @@ From the root of your project (where the scripts/ folder is located), run:
 
 PYTHONPATH=. python scripts/train_baseline.py
 ***********
+
+🚀 MLOps Project Roadmap for NLP Disaster Tweets Classification
+✅ Step 1: EDA and Data Cleaning
+Explore class balance, word distributions, word clouds
+
+Clean text (punctuation, stopwords, lowercase)
+
+Save cleaned CSV → data/processed/train_clean.csv
+
+✅ Step 2: Preprocessing & Vectorization
+Tokenize and vectorize (TF-IDF)
+
+Save as .pkl files
+
+Modularize in scripts/preprocessing.py
+
+✅ Step 3: Baseline Model + MLflow
+Train baseline models (LogisticRegression)
+
+Track metrics with MLflow (scripts/train_baseline.py)
+
+✅ Step 4: Model Experimentation
+Tune hyperparameters with Hyperopt
+
+Compare multiple models: SVM, XGBoost, RandomForest
+
+Fine-tune BERT (done via train_bert.py)
+
+Log everything in MLflow
+
+🔜 Step 5: FastAPI Inference API
+Load trained model and tokenizer
+
+Create a /predict endpoint
+
+Input: Tweet text → Output: Disaster or Not
+
+Optional: Add pydantic validation + swagger UI
+
+🔜 Step 6: Dockerize & Deploy with Terraform + Azure
+Build Docker image of FastAPI app
+
+Push to Azure Container Registry (ACR)
+
+Provision infra using Terraform (App Service / Container Instance)
+
+Deploy model + API to Azure
+
+🔜 Step 7: Monitoring with Evidently AI
+Create dashboard with:
+
+Data drift
+
+Target drift
+
+Model performance over time
+
+Setup batch logging + visualization
+
+Can be run as a periodic batch job or integrated into pipeline
+

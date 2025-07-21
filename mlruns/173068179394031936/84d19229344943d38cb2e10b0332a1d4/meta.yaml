@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/173068179394031936/84d19229344943d38cb2e10b0332a1d4/artifacts
+end_time: 1753082956027
+entry_point_name: ''
+experiment_id: '173068179394031936'
+lifecycle_stage: active
+run_id: 84d19229344943d38cb2e10b0332a1d4
+run_name: serious-colt-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753082635900
+status: 4
+tags: []
+user_id: codespace

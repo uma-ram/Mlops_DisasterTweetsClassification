@@ -1,0 +1,22 @@
+artifact_path: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/695230429478621929/models/m-89351bcfeeed4eeab07934c5fb60a7f6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.23
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.1
+model_id: m-89351bcfeeed4eeab07934c5fb60a7f6
+model_size_bytes: 8720
+model_uuid: m-89351bcfeeed4eeab07934c5fb60a7f6
+prompts: null
+run_id: 5e558e140da64278b412237294a464fd
+utc_time_created: '2025-07-20 22:16:20.661856'

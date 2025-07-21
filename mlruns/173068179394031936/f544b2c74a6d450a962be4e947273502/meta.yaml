@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/173068179394031936/f544b2c74a6d450a962be4e947273502/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '173068179394031936'
+lifecycle_stage: active
+run_id: f544b2c74a6d450a962be4e947273502
+run_name: respected-shrew-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753051768029
+status: 1
+tags: []
+user_id: codespace

@@ -10,6 +10,12 @@ mlflow
 prefect
 wordcloud
 hyperopt
+xgboost
+transformers==4.35.2
+datasets
+evaluate
+accelerate==0.24.0
+torch
 
 # Linting/Formatting
 black

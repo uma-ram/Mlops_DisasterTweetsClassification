@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/695230429478621929
+creation_time: 1753049780064
+experiment_id: '695230429478621929'
+last_update_time: 1753049780064
+lifecycle_stage: active
+name: Model_Comparison_Disaster_Tweets

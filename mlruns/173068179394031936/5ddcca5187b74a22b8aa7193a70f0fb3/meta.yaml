@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Mlops_DisasterTweetsClassification/mlruns/173068179394031936/5ddcca5187b74a22b8aa7193a70f0fb3/artifacts
+end_time: 1753051609347
+entry_point_name: ''
+experiment_id: '173068179394031936'
+lifecycle_stage: active
+run_id: 5ddcca5187b74a22b8aa7193a70f0fb3
+run_name: flawless-ox-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753051606693
+status: 4
+tags: []
+user_id: codespace
