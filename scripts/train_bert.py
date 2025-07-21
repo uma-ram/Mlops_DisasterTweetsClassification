@@ -79,7 +79,15 @@ with mlflow.start_run(run_name="bert_base_uncased"):
     mlflow.log_metrics(metrics)
 
     sample_input = tokenizer("This is a disaster", return_tensors="pt")
-    signature = infer_signature(sample_input["input_ids"].numpy(), model(**sample_input).logits.detach().numpy())
+    # signature = infer_signature(sample_input["input_ids"].numpy(), model(**sample_input).logits.detach().numpy())
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+
+    # Move input tensors to the same device
+    sample_input = {k: v.to(device) for k, v in sample_input.items()}
+
+    outputs = model(**sample_input).logits.detach().cpu().numpy()
+    signature = infer_signature(sample_input["input_ids"].cpu().numpy(), outputs)
 
     mlflow.pytorch.log_model(model, "bert_model", signature=signature)
 
