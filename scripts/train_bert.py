@@ -78,6 +78,12 @@ with mlflow.start_run(run_name="bert_base_uncased"):
     mlflow.log_params(training_args.to_dict())
     mlflow.log_metrics(metrics)
 
+    sample_input = tokenizer("This is a disaster", return_tensors="pt")
+    signature = infer_signature(sample_input["input_ids"].numpy(), model(**sample_input).logits.detach().numpy())
+
+    mlflow.pytorch.log_model(model, "bert_model", signature=signature)
+
+
     # Save model
     model_path = "models/bert"
     os.makedirs(model_path, exist_ok=True)
@@ -85,7 +91,3 @@ with mlflow.start_run(run_name="bert_base_uncased"):
     tokenizer.save_pretrained(model_path)
     mlflow.log_artifacts(model_path, artifact_path="bert_model")
 
-sample_input = tokenizer("This is a disaster", return_tensors="pt")
-signature = infer_signature(sample_input["input_ids"].numpy(), model(**sample_input).logits.detach().numpy())
-
-mlflow.pytorch.log_model(model, "bert_model", signature=signature)
