@@ -5,6 +5,8 @@ from transformers import BertTokenizer, BertForSequenceClassification, Trainer, 
 from sklearn.metrics import accuracy_score, f1_score
 import mlflow
 import os
+import mlflow.pyfunc
+from mlflow.models.signature import infer_signature
 
 # Constants
 MODEL_NAME = "bert-base-uncased"
@@ -39,8 +41,10 @@ train_dataset = TweetDataset(X_train, y_train, tokenizer)
 val_dataset = TweetDataset(X_val, y_val, tokenizer)
 
 # MLflow setup
-mlflow.set_experiment("bert_disaster_tweets")
-with mlflow.start_run():
+mlflow.set_tracking_uri("file:./mlruns")  # local folder
+mlflow.set_experiment("bert_disaster_tweets1")
+
+with mlflow.start_run(run_name="bert_base_uncased"):
     # Define model
     model = BertForSequenceClassification.from_pretrained(MODEL_NAME, num_labels=2)
 
@@ -80,3 +84,8 @@ with mlflow.start_run():
     model.save_pretrained(model_path)
     tokenizer.save_pretrained(model_path)
     mlflow.log_artifacts(model_path, artifact_path="bert_model")
+
+sample_input = tokenizer("This is a disaster", return_tensors="pt")
+signature = infer_signature(sample_input["input_ids"].numpy(), model(**sample_input).logits.detach().numpy())
+
+mlflow.pytorch.log_model(model, "bert_model", signature=signature)
